@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-palahwat&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-palahwat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-palahwat" alt="rahul-palahwat" /></a> </p>
-
 - 🔭 I’m currently working remotely as a **SDE Intern at WodaSoft**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
