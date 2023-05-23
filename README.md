@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-palahwat&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-palahwat" /> </p>
 
-- 🔭 I’m currently working remotely as a **SDE Intern at WodaSoft**
+- 🔭 I’m currently working remotely as a **SDE Intern at TranZact**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **Reactjs , Nodejs , Django , Nosql Databases**
+- 💬 Ask me about **Reactjs , Vuejs , Nodejs , Django , Nosql Databases**
 
 - 📫 How to reach me **rahulpalahwat@gmail.com**
 - <a href="https://holopin.io/@almightythor" target="blank"><img src="https://holopin.me/@almightythor" alt="" /></a>
